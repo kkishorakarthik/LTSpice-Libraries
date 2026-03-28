@@ -7,7 +7,7 @@
 *                | | | NEGATIVE POWER SUPPLY
 *                | | | | OPEN COLLECTOR OUTPUT
 *                | | | | |
-.SUBCKT LM339    1 2 3 4 5
+.SUBCKT lm339    1 2 3 4 5
 *
   F1    9  3 V1 1
   IEE   3  7 DC 100.0E-6
